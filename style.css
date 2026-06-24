@@ -92,7 +92,7 @@ body{
 
 .parametro-senha__botao{
    padding: 24;
-   border-top: ;
+   border-top: #001E40;
     background-color: var(--fundo-texto);
     color: var(--branco);
     border: 2px solid var(--borda);
